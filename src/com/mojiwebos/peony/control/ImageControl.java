@@ -1,4 +1,4 @@
-package com.mojiwebos.control;
+package com.mojiwebos.peony.control;
 
 import org.eclipse.swt.graphics.Image;
 import org.eclipse.swt.graphics.ImageData;

@@ -20,8 +20,8 @@ import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 import org.eclipse.wb.swt.SWTResourceManager;
 
-import com.mojiwebos.control.FadeImageThread;
-import com.mojiwebos.control.ImageControl;
+import com.mojiwebos.peony.control.FadeImageThread;
+import com.mojiwebos.peony.control.ImageControl;
 
 public class HomeShell {
 

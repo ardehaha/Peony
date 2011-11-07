@@ -1,4 +1,4 @@
-package com.mojiwebos.model;
+package com.mojiwebos.peony.model;
 
 public class File {
 	

@@ -1,4 +1,4 @@
-package com.mojiwebos.model;
+package com.mojiwebos.peony.model;
 
 import java.util.List;
 
