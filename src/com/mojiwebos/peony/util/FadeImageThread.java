@@ -1,8 +1,10 @@
-package com.mojiwebos.peony.control;
+package com.mojiwebos.peony.util;
 
 import org.eclipse.swt.graphics.Image;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.Shell;
+
+import com.mojiwebos.peony.control.ImageControl;
 
 public class FadeImageThread extends Thread {
 

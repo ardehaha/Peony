@@ -19,8 +19,8 @@ public class ImageControl {
 		ImageData topData = topImage.getImageData();
 		ImageData bottomData = buttomImage.getImageData();
 		
-		int zeroX = (bottomData.width  - topData.width ) / 2 - 1;
-		int zeroY = (bottomData.height - topData.height) / 2 - 1;
+		int zeroX = (bottomData.width  - topData.width ) / 2;
+		int zeroY = (bottomData.height - topData.height) / 2;
 		
 		for(int y = 0; y < topData.height; y++) {
 			for(int x = 0; x < topData.width; x++) {
